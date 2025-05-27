@@ -123,3 +123,6 @@ Once logged in, the application presents a dashboard with three main tabs: Books
 * **HTML5/CSS3:** For structuring and styling the web pages.
 * **JavaScript (ES6+):** Programming language for frontend logic.
 * **Fetch API:** For making HTTP requests to the backend API.
+
+the frontend is in the folder that says frontende
+
